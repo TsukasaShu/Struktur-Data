@@ -29,9 +29,8 @@ https://docs.google.com/spreadsheets/d/17ru4XAU2NloE9Dfxr2PC1BVcsYkLLT5r7nPSsiOF
 - Data tersinkronisasi otomatis dengan Google Spreadsheet
 - Tampilan hasil yang informatif dan terstruktur
 
-  # Tentang
-  
-Tugas Untuk UTS Mata Kuliah Struktur Data 
+# Tentang
+Tugas Untuk UTS Mata Kuliah Struktur Data
 Universitas Sultan Ageng Tirtayasa
 Oleh: Muhammad Rizky Fajar (333724048)
 Dosen: Cakra Adipura Wicaksana, S.T., M.T
