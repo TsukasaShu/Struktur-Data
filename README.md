@@ -30,7 +30,7 @@ https://docs.google.com/spreadsheets/d/17ru4XAU2NloE9Dfxr2PC1BVcsYkLLT5r7nPSsiOF
 - Tampilan hasil yang informatif dan terstruktur
 
 # Tentang
-Tugas UTS Struktur Data<br>
+Tugas Untuk UTS Mata Kuliah Struktur Data<br>
 Universitas Sultan Ageng Tirtayasa<br>
 Oleh: Muhammad Rizky Fajar (333724048)<br>
 Dosen: Cakra Adipura Wicaksana, S.T., M.T
